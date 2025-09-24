@@ -1,0 +1,57 @@
+{
+  "version": "3.102.35072.0",
+  "course_id": "6eVN8EG1qhP",
+  "title": "Aperture Lab",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5wh48xH2Ijj",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6AtP8gZG7tv",
+      "title": "SCENARIO STARTER",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "67JpcyWN4ta",
+      "title": "Scenario 1",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5yohJ6eKbl3",
+      "title": "Scenario 2",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6mdOQDJKXho",
+      "title": "Scenario 3",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5oTc4yiyTaF",
+      "title": "Knowledge Check",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6pwCSZMacWG",
+      "title": "EXIT LAB",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1260,
+    "height": 680
+  },
+  "stage": {
+    "width": 1000,
+    "height": 562
+  }
+}
